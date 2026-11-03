@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- git-runner:start -->
+<a href="https://github.com/abhishekbaloria/git-runner">
+  <img src="https://raw.githubusercontent.com/abhishekbaloria/git-runner/main/generated/runner.gif" width="480" alt="My pixel runner, powered by GitHub activity" />
+</a>
+<!-- git-runner:end -->
